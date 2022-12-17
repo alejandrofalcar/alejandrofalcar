@@ -1,4 +1,4 @@
-# 💫 Hola! Me llamo Alejandro
+# 💫 Hola! 
 🌱 Actualmente estoy cursando el segundo año del Grado Profesional de Desarrollo de Aplicaciones Multiplataforma en Sevilla.<br>⚡ A pesar de mi poca experiencia laboral, tras la finalización del primer año del curso, estuve trabajando durante 3 meses en Merkinsio, una PYME donde curse mi formación Dual.
 
 
