@@ -6,10 +6,11 @@ Mi nombre es Alejandro, tengo 24 años y soy Front-end Developer con experiencia
 
 ### 🚀 Lenguajes
 - JavaScript, TypeScript, Java, y Golang.
+
 ### 🛠 Frameworks
 - React, NextJS, Spring Boot y Gorm.
 
-### 📀 Diseño
+### 🎨 Librerías
 - ChakraUI, MaterialUI y Bootstrap.
 
 ### 💾 Bases de datos
