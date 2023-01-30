@@ -5,14 +5,16 @@ Mi nombre es Alejandro, tengo 24 años y soy Front-end Developer con experiencia
 - 📊 Soy entusiasta de SEO, SEM y técnicas de eCommerce.
 
 ### 🛠 Frameworks
-
-- Spring Boot, Gorm, React y NextJS.
+- React, NextJS, Spring Boot y Gorm.
 
 ### 🚀 Lenguajes
-- Java, JavaScript, TypeScript y Golang.
+- JavaScript, TypeScript, Java, y Golang.
 
 ### 📀 Diseño
-- ChakraUI, Bootstrap y MaterialUI.
+- ChakraUI, MaterialUI y Bootstrap.
+
+### 💾 Bases de datos
+- MYSQL, MongoDB y Docker.
 
 ## 🌐 Mis redes:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alejandrofalcar98) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alejandrofal98/)
