@@ -3,7 +3,7 @@ Mi nombre es Alejandro, tengo 24 años y soy Front-end Developer con experiencia
 
 - 👨🏻‍💻 Actualmente estoy cursando el Grado de Desarrollo de Aplicaciones Multiplataforma junto a la formación Dual en [Merkinsio](http://merkinsio.com/).
 - 📊 Soy entusiasta del SEO, SEM y técnicas de eCommerce.
-- 
+
 ### 🚀 Lenguajes
 - JavaScript, TypeScript, Java, y Golang.
 ### 🛠 Frameworks
