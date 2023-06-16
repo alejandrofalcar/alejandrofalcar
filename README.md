@@ -1,17 +1,17 @@
 # Hola👋, 
-Mi nombre es Alejandro, tengo 24 años y soy Front-end Developer con experiencia en la industria de la consultoría, viajes, motor y Web3. 
+Mi nombre es Alejandro, tengo 24 años y soy Full Stack Developer especializado en React y Golang con gran interés por tecnologías emergentes como Astro o Solid.
 
-- 👨🏻‍💻 Actualmente estoy cursando el Grado de Desarrollo de Aplicaciones Multiplataforma junto a la formación Dual en [Merkinsio](http://merkinsio.com/).
+- 👨🏻‍💻 Tecnico Desarrollo de Aplicaciones Multiplataforma junto a la formación Dual en [Merkinsio](http://merkinsio.com/).
 - 📊 Soy entusiasta del SEO, SEM y técnicas de eCommerce.
 
 ### 🚀 Lenguajes
-- JavaScript, TypeScript, Java, y Golang.
+- JavaScript, TypeScript, Java y Golang.
 
 ### 🛠 Frameworks
 - React, NextJS, Spring Boot y Gorm.
 
 ### 🎨 Librerías
-- ChakraUI, MaterialUI y Bootstrap.
+- ChakraUI, MaterialUI, TailwindUI y Bootstrap.
 
 ### 💾 Bases de datos
 - MYSQL, MongoDB y Docker.
