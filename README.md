@@ -11,7 +11,7 @@ Mi nombre es Alejandro, tengo 24 años y soy Full Stack Developer especializado 
 - React, NextJS, Spring Boot y Gorm.
 
 ### 🎨 Librerías
-- ChakraUI, MaterialUI, TailwindUI y Bootstrap.
+- ChakraUI, MaterialUI y TailwindUI.
 
 ### 💾 Bases de datos
 - MYSQL, MongoDB y Docker.
