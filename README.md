@@ -1,7 +1,7 @@
 # Hola👋, 
 Mi nombre es Alejandro, tengo 24 años y soy Full Stack Developer especializado en React y Golang con gran interés por tecnologías emergentes como Astro o Solid.
 
-- 👨🏻‍💻 Tecnico Desarrollo de Aplicaciones Multiplataforma junto a la formación Dual en [Merkinsio](http://merkinsio.com/).
+- 👨🏻‍💻 Técnico en Desarrollo de Aplicaciones Multiplataforma junto a la formación Dual en [Merkinsio](http://merkinsio.com/).
 - 📊 Soy entusiasta del SEO, SEM y técnicas de eCommerce.
 
 ### 🚀 Lenguajes
