@@ -1,5 +1,3 @@
-# Hi👋, 
-
 ## About me
 > I'm Alejandro from [Sevilla, Spain 🇪🇸](https://goo.gl/maps/2UHLNJrt2xnZ4qEy8), Full Stack Developer.
 
