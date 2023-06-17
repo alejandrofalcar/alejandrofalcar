@@ -16,10 +16,9 @@
 ![Nextjs](https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=101010)
 
 ![Sass](https://img.shields.io/badge/sass-cc6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=101010)
-![Tailwindcss](https://img.shields.io/badge/tailwindcss-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=101010)
 ![Chakraui](https://img.shields.io/badge/chakraui-319795?style=for-the-badge&logo=chakra-ui&logoColor=white&labelColor=101010)
 
-![MongoDB](https://img.shields.io/badge/mongodb-47a248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)
+![MySQL](![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010))
 ![Axios](https://img.shields.io/badge/axios-000000?style=for-the-badge&logo=axios&logoColor=white&labelColor=101010)
 
 ![Vite](https://img.shields.io/badge/vite-646cff?style=for-the-badge&logo=vite&logoColor=white&labelColor=101010)
