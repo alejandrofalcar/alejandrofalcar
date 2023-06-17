@@ -1,5 +1,5 @@
 ## About me
-> I'm Alejandro from [Sevilla, Spain 🇪🇸](https://goo.gl/maps/2UHLNJrt2xnZ4qEy8), Full Stack Developer.
+> I'm Alejandro from [Sevilla, Spain](https://goo.gl/maps/2UHLNJrt2xnZ4qEy8), Full Stack Developer.
 
 - 🌱 Learning **NodeJS/Express**, **Tailwind** and **Prisma**.
 - 🏢 Working at **[@innusual](https://www.innusual.tech/)** as Frontend Developer.
