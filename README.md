@@ -1,10 +1,10 @@
 # Hi👋, 
 
+## About me
 > I'm Alejandro from [Sevilla, Spain 🇪🇸](https://goo.gl/maps/2UHLNJrt2xnZ4qEy8), Full Stack Developer.
 
-## What I do
 - 🌱 Learning **NodeJS/Express**, **Tailwind** and **Prisma**.
-- ⚙️ Working at **[@innusual](https://www.innusual.tech/)** as Frontend Developer.
+- 🏢 Working at **[@innusual](https://www.innusual.tech/)** as Frontend Developer.
 
 ## 🛠️ Technologies
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -33,6 +33,6 @@
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## 🌐 Contact:
+## 🌐 Contact me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/alejandrofalcar98/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:alejandrofalcar98@gmail.com)
