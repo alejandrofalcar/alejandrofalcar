@@ -1,7 +1,7 @@
 ## About me
 > I'm Alejandro from [Sevilla, Spain](https://goo.gl/maps/2UHLNJrt2xnZ4qEy8), Full Stack Developer.
 
-- 🌱 Learning **NodeJS/Express**, **Tailwind** and **Prisma**.
+- 🌱 Learning **tRPC**, **MantineUI**, **PostgreSQL** and **Prisma**.
 
 ## 🛠️ Technologies
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
