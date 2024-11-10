@@ -38,5 +38,5 @@ Tech Engineer based on [Sevilla, Spain](https://goo.gl/maps/2UHLNJrt2xnZ4qEy8).
 ![Macos](https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)
 
 ## 🌐 Contact me:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandrofal98/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejandrofalcar98@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/alejandrofal98/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:alejandrofalcar98@gmail.com)
