@@ -1,7 +1,7 @@
 ## alejandrofalcon
-Front-end Developer based on [Sevilla, Spain](https://goo.gl/maps/2UHLNJrt2xnZ4qEy8).
+Tech Engineer based on [Sevilla, Spain](https://goo.gl/maps/2UHLNJrt2xnZ4qEy8).
 
-- ⚙️ Working at **[@innusual](https://www.innusual.tech/)** as **Tech Engineer**.
+- ⚙️ Working at **[@innusual](https://www.innusual.tech/)** as **Front-end Developer**.
 
 ## 🛠️ Technologies
 ![HTML](https://img.shields.io/badge/html-e34f26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)
