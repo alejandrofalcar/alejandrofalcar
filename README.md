@@ -6,8 +6,8 @@ Currently building modern web experiences at @innusual with a focus on React, Ty
 Passionate about creating scalable, maintainable web applications with clean code and exceptional user experiences.\
 I enjoy working with modern JavaScript frameworks, exploring new technologies, and contributing to open-source projects.
 
-🔭 Currently working on frontend applications with React, Tailwind, microfrontends, and backend for frontend patterns\
-🌱 Always learning and staying up-to-date with the latest web technologies
+🔭 Currently working on frontend applications with React, Tailwind, microfrontends, and backend for frontend patterns.\
+🌱 Always learning and staying up-to-date with the latest web technologies.
 
 ## 🛠️ Technologies
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,astro" />
