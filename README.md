@@ -1,5 +1,5 @@
 ## alejandrofalcon
-Frontend Developer based in Sevilla, Spain 🇪🇸\
+Frontend Developer based in [Sevilla, Spain](https://goo.gl/maps/2UHLNJrt2xnZ4qEy8) 🇪🇸\
 Currently building modern web experiences at [@innusual](https://www.innusual.tech/) with a focus on React, TypeScript, and performant user interfaces.
 
 ## 👨‍💻 About Me
@@ -9,12 +9,9 @@ I enjoy working with modern JavaScript frameworks, exploring new technologies, a
 🔭 Currently working on frontend applications with React, Tailwind, microfrontends, and backend for frontend patterns.\
 🌱 Always learning and staying up-to-date with the latest web technologies.
 
-## 🛠️ Technologies
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,astro" />
-<img src="https://skillicons.dev/icons?i=nodejs,express,go,prisma" />
-<img src="https://skillicons.dev/icons?i=jest,vite,webpack" />
-<img src="https://skillicons.dev/icons?i=vercel,cloudflare,github,docker" />
+## 🛠️ Tech Stack
+<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,astro,nodejs,express,go,prisma,jest,vite,webpack,vercel,cloudflare,github,docker" />
 
-## 🌐 Contact me:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/alejandrofal98/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:alejandrofalcar98@gmail.com)
+## 🌐 Let's Connect:
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alejandrofal98/)
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:alejandrofalcar98@proton.me)
