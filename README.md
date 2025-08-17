@@ -1,6 +1,6 @@
 ## alejandrofalcon
 Frontend Developer based in Sevilla, Spain 🇪🇸\
-Currently building modern web experiences at @innusual with a focus on React, TypeScript, and performant user interfaces.
+Currently building modern web experiences at [@innusual](https://www.innusual.tech/) with a focus on React, TypeScript, and performant user interfaces.
 
 ## 👨‍💻 About Me
 Passionate about creating scalable, maintainable web applications with clean code and exceptional user experiences.\
